@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "fullname": "Tran Chan Dong",
+        "email": "dongtc97@icloud.com",
+        "phoneNumber": "0902944730"
+    },
+    {
+        "id": 2,
+        "fullname": "Nguyen Quang Long",
+        "email": "longquangnguyen@icloud.com",
+        "phoneNumber": "0902944777"
+    }
+]
